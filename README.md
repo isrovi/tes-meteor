@@ -21,3 +21,6 @@ Note:
 - profile, edit profile, change password, reset password belum sempat mengerjakan
 - stack yang digunakan pada backend: bcrypt, concurrently, cors, dotenv, express, jsonwebtoken, mysql2, sequelize, sequelize-cli
 - stack yang digunakan pada frontend: axios, react-bootstrap, react-router-dom
+
+-- Login
+![alt text](https://github.com/isrovi/tes-meteor/blob/master/1.JPG)
