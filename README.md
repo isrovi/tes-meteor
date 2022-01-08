@@ -4,7 +4,7 @@ Cara penggunaan:
 1. pull project
 2. install node modules dengan command "npm install" di direktori "nama projek/client" untuk frontend dan "nama projek/server" untuk backend
 3. import sql/database mysql dengan xampp, buat database dengan nama db_meteor terlebih dahulu
-4. jalankan project dengan masuk ke direktori "nama projek/server" lalu buka command prompt dan ketik npm run dev pada direktori server tersebut
+4. jalankan project dengan masuk ke direktori "nama projek/server" lalu buka command prompt dan ketik "npm run dev" pada direktori server tersebut
 5. ketika projek dijalankan maka akan otomatis membuka browser ke halaman projek atau jika tidak muncul lokasinya ada di localhost:3000
 6. halaman pertama adalah login dengan url localhost:3000/admin, masuk dengan user admin email: admin@mail.com password:admin
 7. setelah login akan masuk padahal halaman utama yaitu data user untuk menampilkan semua user
