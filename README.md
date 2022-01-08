@@ -24,3 +24,18 @@ Note:
 
 -- Login
 ![alt text](https://github.com/isrovi/tes-meteor/blob/master/1.JPG)
+
+-- Halaman utama list user
+![alt text](https://github.com/isrovi/tes-meteor/blob/master/2.JPG)
+
+-- Form add new user
+![alt text](https://github.com/isrovi/tes-meteor/blob/master/6.JPG)
+
+-- Dropdown action edit dan delete user
+![alt text](https://github.com/isrovi/tes-meteor/blob/master/3.JPG)
+
+-- Modal delete user 
+![alt text](https://github.com/isrovi/tes-meteor/blob/master/4.JPG)
+
+-- Form edit user
+![alt text](https://github.com/isrovi/tes-meteor/blob/master/5.JPG)
